@@ -12,4 +12,8 @@ function culc (a,b,sign){
     return res
 
 }
-console.log(calc (2,4,"+"));
+//log1
+console.log(culc (2,4,"+"));
+
+//log2
+console.log(culc (5,7,"+"));
