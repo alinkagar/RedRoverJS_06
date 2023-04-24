@@ -12,3 +12,4 @@ function culc (a,b,sign){
     return res
 
 }
+console.log(calc (2,4,"+"));
